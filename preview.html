@@ -1,0 +1,72 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>preview</title>
+<style>
+  body{margin:0;font:14px system-ui}
+  .pane{padding:26px}
+  .d{background:#0d1117}.l{background:#ffffff}
+  h2{color:#8b949e;font:12px monospace;letter-spacing:2px;margin:0 0 12px;text-align:center}
+  object{display:block;margin:0 auto 18px;width:880px;height:626px}
+  /* ?grid=1 poe as quatro abas lado a lado, cada uma congelada na sua vez */
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;max-width:1160px;margin:0 auto}
+  .grid object{width:100%;height:406px;margin:0}
+</style>
+
+<div class="pane d"><h2>DARK</h2><div id="dark"></div></div>
+<div class="pane l"><h2>LIGHT</h2><div id="light"></div></div>
+
+<script>
+// Sem parametro: roda ao vivo, um painel por tema.
+// Com ?grid=1: mostra as 4 abas de uma vez, cada uma travada no meio da sua
+// janela do ciclo de 28s. Travar e necessario para print - sem isso a captura
+// pega o meio da transicao e parece que o painel esta quebrado.
+const q    = new URLSearchParams(location.search);
+const grid = q.get('grid') === '1';
+const CYCLE = 28000, TABS = 4;
+
+const only = q.get('theme');            // ?theme=dark ou ?theme=light
+for (const theme of ['dark', 'light']) {
+  const host = document.getElementById(theme);
+  if (only && only !== theme) { host.closest('.pane').hidden = true; continue; }
+  const times = grid
+    ? Array.from({length: TABS}, (_, i) => (CYCLE / TABS) * i + CYCLE / TABS / 2)
+    : [null];
+  if (grid) host.className = 'grid';
+  for (const t of times) {
+    const o = document.createElement('object');
+    o.type = 'image/svg+xml';
+    o.data = `assets/terminal-${theme}.svg`;
+    if (t !== null) o.dataset.t = t;
+    host.appendChild(o);
+  }
+}
+
+// Um <object> so tem contentDocument depois de carregar. Confiar num
+// setTimeout faz a captura pegar paineis nao travados e sair errada, entao
+// cada painel e travado no seu proprio load - com retentativas por seguranca.
+function seekOne(o) {
+  const t = o.dataset.t, doc = o.contentDocument;
+  if (t === undefined || !doc) return false;
+  const anims = doc.getAnimations();
+  if (!anims.length) return false;
+  for (const a of anims) {
+    try { a.currentTime = Number(t); a.pause(); } catch (e) {}
+  }
+  o.dataset.seeked = '1';
+  return true;
+}
+
+function seekAll() {
+  const pending = [...document.querySelectorAll('object[data-t]')]
+    .filter(o => o.dataset.seeked !== '1');
+  pending.forEach(seekOne);
+  const left = document.querySelectorAll('object[data-t]:not([data-seeked])').length;
+  document.title = left === 0 ? 'ready' : `waiting:${left}`;
+  return left;
+}
+
+for (const o of document.querySelectorAll('object')) {
+  o.addEventListener('load', () => { seekOne(o); seekAll(); });
+}
+[100, 400, 900, 1800, 3000].forEach(ms => setTimeout(seekAll, ms));
+</script>

@@ -1,0 +1,9 @@
+# Config local de ferramenta, nao faz parte do perfil
+.claude/
+
+# Temporarios de diagnostico do preview (capturas 1:1, recortes ampliados)
+_*.html
+_*.png
+
+__pycache__/
+*.pyc
