@@ -1,0 +1,80 @@
+{
+  "repos": 6,
+  "stars": 3,
+  "commits": 401,
+  "followers": 2,
+  "bytes": 967910,
+  "languages": [
+    [
+      "TypeScript",
+      447178
+    ],
+    [
+      "CSS",
+      332543
+    ],
+    [
+      "Python",
+      131328
+    ],
+    [
+      "HTML",
+      34337
+    ],
+    [
+      "JavaScript",
+      22524
+    ]
+  ],
+  "monthly": [
+    {
+      "month": 9,
+      "value": 0
+    },
+    {
+      "month": 10,
+      "value": 0
+    },
+    {
+      "month": 11,
+      "value": 0
+    },
+    {
+      "month": 12,
+      "value": 0
+    },
+    {
+      "month": 1,
+      "value": 1
+    },
+    {
+      "month": 2,
+      "value": 0
+    },
+    {
+      "month": 3,
+      "value": 19
+    },
+    {
+      "month": 4,
+      "value": 80
+    },
+    {
+      "month": 5,
+      "value": 68
+    },
+    {
+      "month": 6,
+      "value": 165
+    },
+    {
+      "month": 7,
+      "value": 75
+    },
+    {
+      "month": 8,
+      "value": 16
+    }
+  ],
+  "built": "18 AUG 2026"
+}

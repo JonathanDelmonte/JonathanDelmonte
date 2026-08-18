@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-label="JONATHAN DELMONTE. SOFTWARE ENGINEERING STUDENT  ·  JUIZ DE FORA, MG  ·  BRAZIL. 7 repositories, 3 stars, 415 commits. Stack: TypeScript, JavaScript, Python, SQL, HTML, CSS, React, Next.js, Tailwind CSS, Three.js, React Three Fiber, GSAP, WebGL, Node.js, Express, REST APIs, PostgreSQL, ER Modeling, OOP, Git, GitHub, GitLab, Scrum / Agile, ClickUp, Responsive Design, Accessibility, Progressive Enhancement.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-label="JONATHAN DELMONTE. SOFTWARE ENGINEERING STUDENT  ·  JUIZ DE FORA, MG  ·  BRAZIL. 6 repositories, 3 stars, 401 commits. Stack: TypeScript, JavaScript, Python, SQL, HTML, CSS, React, Next.js, Tailwind CSS, Three.js, React Three Fiber, GSAP, WebGL, Node.js, Express, REST APIs, PostgreSQL, ER Modeling, OOP, Git, GitHub, GitLab, Scrum / Agile, ClickUp, Responsive Design, Accessibility, Progressive Enhancement.">
 <defs>
   <radialGradient id="bg" cx="0.72" cy="0.16" r="1.0">
     <stop offset="0%"   stop-color="#DDEEF1"/>
@@ -741,7 +741,7 @@
 <g class="tab tab1">
 <g class="r1_0">
 <text x="44.0" y="264.0" font-size="11" fill="#6E8E96" letter-spacing="2.2">REPOSITORIES</text>
-<text x="44.0" y="308.0" font-size="34" fill="#062830" font-weight="700" letter-spacing="1">07</text>
+<text x="44.0" y="308.0" font-size="34" fill="#062830" font-weight="700" letter-spacing="1">06</text>
 </g>
 <g class="r1_1">
 <line x1="225" y1="252" x2="225" y2="318" stroke="#C3DBE0" stroke-width="1"/>
@@ -751,40 +751,40 @@
 <g class="r1_2">
 <line x1="428" y1="252" x2="428" y2="318" stroke="#C3DBE0" stroke-width="1"/>
 <text x="450.0" y="264.0" font-size="11" fill="#6E8E96" letter-spacing="2.2">COMMITS</text>
-<text x="450.0" y="308.0" font-size="34" fill="#062830" font-weight="700" letter-spacing="1">415</text>
+<text x="450.0" y="308.0" font-size="34" fill="#062830" font-weight="700" letter-spacing="1">401</text>
 </g>
 <g class="r1_3">
 <line x1="631" y1="252" x2="631" y2="318" stroke="#C3DBE0" stroke-width="1"/>
 <text x="653.0" y="264.0" font-size="11" fill="#6E8E96" letter-spacing="2.2">CODE</text>
-<text x="653.0" y="308.0" font-size="34" fill="#062830" font-weight="700" letter-spacing="1">904 KB</text>
+<text x="653.0" y="308.0" font-size="34" fill="#062830" font-weight="700" letter-spacing="1">945 KB</text>
 </g>
 <g class="r1_4">
 <text x="44.0" y="362.0" font-size="11" fill="#6E8E96" letter-spacing="2.2">LANGUAGES</text>
 <g transform="translate(44,374)"><g class="bargrow">
-<rect x="0.0" width="386.4" height="9" fill="#0A8E9E" opacity="0.95"/>
-<rect x="389.4" width="287.3" height="9" fill="#0A8E9E" opacity="0.81"/>
-<rect x="679.7" width="79.5" height="9" fill="#0A8E9E" opacity="0.67"/>
-<rect x="762.3" width="27.3" height="9" fill="#0A8E9E" opacity="0.53"/>
-<rect x="792.5" width="19.5" height="9" fill="#0A8E9E" opacity="0.39"/>
+<rect x="0.0" width="369.6" height="9" fill="#0A8E9E" opacity="0.95"/>
+<rect x="372.6" width="274.9" height="9" fill="#0A8E9E" opacity="0.81"/>
+<rect x="650.5" width="108.5" height="9" fill="#0A8E9E" opacity="0.67"/>
+<rect x="762.0" width="28.4" height="9" fill="#0A8E9E" opacity="0.53"/>
+<rect x="793.4" width="18.6" height="9" fill="#0A8E9E" opacity="0.39"/>
 </g></g>
 </g>
 <g class="r1_5">
 <rect x="44.0" y="400" width="7" height="7" fill="#0A8E9E" opacity="0.95"/>
-<text x="58.0" y="407.0" font-size="11.5" fill="#37545C">TypeScript 48.3%</text>
+<text x="58.0" y="407.0" font-size="11.5" fill="#37545C">TypeScript 46.2%</text>
 <rect x="192.4" y="400" width="7" height="7" fill="#0A8E9E" opacity="0.81"/>
-<text x="206.4" y="407.0" font-size="11.5" fill="#37545C">CSS 35.9%</text>
+<text x="206.4" y="407.0" font-size="11.5" fill="#37545C">CSS 34.4%</text>
 <rect x="292.5" y="400" width="7" height="7" fill="#0A8E9E" opacity="0.67"/>
-<text x="306.5" y="407.0" font-size="11.5" fill="#37545C">Python 9.9%</text>
-<rect x="406.4" y="400" width="7" height="7" fill="#0A8E9E" opacity="0.53"/>
-<text x="420.4" y="407.0" font-size="11.5" fill="#37545C">HTML 3.4%</text>
-<rect x="506.5" y="400" width="7" height="7" fill="#0A8E9E" opacity="0.39"/>
-<text x="520.5" y="407.0" font-size="11.5" fill="#37545C">JavaScript 2.4%</text>
+<text x="306.5" y="407.0" font-size="11.5" fill="#37545C">Python 13.6%</text>
+<rect x="413.3" y="400" width="7" height="7" fill="#0A8E9E" opacity="0.53"/>
+<text x="427.3" y="407.0" font-size="11.5" fill="#37545C">HTML 3.5%</text>
+<rect x="513.4" y="400" width="7" height="7" fill="#0A8E9E" opacity="0.39"/>
+<text x="527.4" y="407.0" font-size="11.5" fill="#37545C">JavaScript 2.3%</text>
 </g>
 <g class="r1_6">
 <text x="44.0" y="466.0" font-size="11" fill="#6E8E96" letter-spacing="2.2">ACTIVITY · LAST 12 MONTHS</text>
-<text x="856.0" y="466.0" font-size="11" fill="#0A8E9E" letter-spacing="2.2" text-anchor="end">415 CONTRIBUTIONS</text>
-<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.60 191.64,548.60 C216.73,548.60 240.36,549.30 265.45,548.60 C290.55,547.90 314.17,546.93 339.27,544.48 C364.37,542.02 387.99,537.44 413.09,534.17 C438.19,530.90 461.81,529.56 486.91,525.23 C512.01,520.91 535.63,513.18 560.73,508.74 C585.83,504.30 609.45,499.47 634.55,499.12 C659.64,498.77 683.27,509.25 708.36,506.68 C733.46,504.11 757.08,484.93 782.18,484.00 C807.28,483.07 843.45,498.26 856.00,501.18 L856,552 L44,552 Z" fill="url(#areag)"/>
-<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.60 191.64,548.60 C216.73,548.60 240.36,549.30 265.45,548.60 C290.55,547.90 314.17,546.93 339.27,544.48 C364.37,542.02 387.99,537.44 413.09,534.17 C438.19,530.90 461.81,529.56 486.91,525.23 C512.01,520.91 535.63,513.18 560.73,508.74 C585.83,504.30 609.45,499.47 634.55,499.12 C659.64,498.77 683.27,509.25 708.36,506.68 C733.46,504.11 757.08,484.93 782.18,484.00 C807.28,483.07 843.45,498.26 856.00,501.18" fill="none" stroke="#0A8E9E" stroke-width="2" stroke-linecap="round" pathLength="1" class="trace"/>
+<text x="856.0" y="466.0" font-size="11" fill="#0A8E9E" letter-spacing="2.2" text-anchor="end">424 CONTRIBUTIONS</text>
+<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.60 191.64,548.60 C216.73,548.60 240.36,548.67 265.45,548.60 C290.55,548.53 314.17,548.21 339.27,548.21 C364.37,548.21 387.99,549.80 413.09,548.60 C438.19,547.40 461.81,546.49 486.91,541.16 C512.01,535.84 535.63,520.54 560.73,517.28 C585.83,514.02 609.45,527.63 634.55,521.98 C659.64,516.32 683.27,484.47 708.36,484.00 C733.46,483.53 757.08,509.32 782.18,519.24 C807.28,529.15 843.45,538.41 856.00,542.34 L856,552 L44,552 Z" fill="url(#areag)"/>
+<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.60 191.64,548.60 C216.73,548.60 240.36,548.67 265.45,548.60 C290.55,548.53 314.17,548.21 339.27,548.21 C364.37,548.21 387.99,549.80 413.09,548.60 C438.19,547.40 461.81,546.49 486.91,541.16 C512.01,535.84 535.63,520.54 560.73,517.28 C585.83,514.02 609.45,527.63 634.55,521.98 C659.64,516.32 683.27,484.47 708.36,484.00 C733.46,483.53 757.08,509.32 782.18,519.24 C807.28,529.15 843.45,538.41 856.00,542.34" fill="none" stroke="#0A8E9E" stroke-width="2" stroke-linecap="round" pathLength="1" class="trace"/>
 <line x1="44" y1="552" x2="856" y2="552" stroke="#C3DBE0" stroke-width="1"/>
 <text x="44.0" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">S</text>
 <text x="117.8" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">O</text>
@@ -906,7 +906,7 @@
 <line x1="44" y1="596" x2="856" y2="596" stroke="url(#fade)" stroke-width="1"/>
 <circle cx="48" cy="617" r="3.4" fill="#0A8E9E" class="dot"/>
 <text x="61.0" y="621.0" font-size="11" fill="#37545C" letter-spacing="2.2">OPEN TO INTERNSHIP</text>
-<text x="856.0" y="621.0" font-size="11" fill="#6E8E96" letter-spacing="2.2" text-anchor="end">UPDATED 11 AUG 2026</text>
+<text x="856.0" y="621.0" font-size="11" fill="#6E8E96" letter-spacing="2.2" text-anchor="end">UPDATED 18 AUG 2026</text>
 <rect width="900" height="640" fill="url(#vig)"/>
 <rect width="900" height="640" filter="url(#grain)" opacity="0.026"/>
 <rect width="900" height="640" fill="url(#scan2)"/>
