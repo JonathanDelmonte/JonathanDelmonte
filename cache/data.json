@@ -28,10 +28,6 @@
   ],
   "monthly": [
     {
-      "month": 9,
-      "value": 0
-    },
-    {
       "month": 10,
       "value": 0
     },
@@ -74,7 +70,11 @@
     {
       "month": 8,
       "value": 25
+    },
+    {
+      "month": 9,
+      "value": 0
     }
   ],
-  "built": "31 AUG 2026"
+  "built": "01 SEP 2026"
 }

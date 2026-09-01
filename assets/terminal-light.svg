@@ -783,21 +783,21 @@
 <g class="r1_6">
 <text x="44.0" y="466.0" font-size="11" fill="#6E8E96" letter-spacing="2.2">ACTIVITY · LAST 12 MONTHS</text>
 <text x="856.0" y="466.0" font-size="11" fill="#0A8E9E" letter-spacing="2.2" text-anchor="end">433 CONTRIBUTIONS</text>
-<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.60 191.64,548.60 C216.73,548.60 240.36,548.67 265.45,548.60 C290.55,548.53 314.17,548.21 339.27,548.21 C364.37,548.21 387.99,549.80 413.09,548.60 C438.19,547.40 461.81,546.49 486.91,541.16 C512.01,535.84 535.63,520.54 560.73,517.28 C585.83,514.02 609.45,527.63 634.55,521.98 C659.64,516.32 683.27,484.47 708.36,484.00 C733.46,483.53 757.08,509.92 782.18,519.24 C807.28,528.55 843.45,535.48 856.00,538.81 L856,552 L44,552 Z" fill="url(#areag)"/>
-<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.60 191.64,548.60 C216.73,548.60 240.36,548.67 265.45,548.60 C290.55,548.53 314.17,548.21 339.27,548.21 C364.37,548.21 387.99,549.80 413.09,548.60 C438.19,547.40 461.81,546.49 486.91,541.16 C512.01,535.84 535.63,520.54 560.73,517.28 C585.83,514.02 609.45,527.63 634.55,521.98 C659.64,516.32 683.27,484.47 708.36,484.00 C733.46,483.53 757.08,509.92 782.18,519.24 C807.28,528.55 843.45,535.48 856.00,538.81" fill="none" stroke="#0A8E9E" stroke-width="2" stroke-linecap="round" pathLength="1" class="trace"/>
+<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.67 191.64,548.60 C216.73,548.53 240.36,548.21 265.45,548.21 C290.55,548.21 314.17,549.80 339.27,548.60 C364.37,547.40 387.99,546.49 413.09,541.16 C438.19,535.84 461.81,520.54 486.91,517.28 C512.01,514.02 535.63,527.63 560.73,521.98 C585.83,516.32 609.45,484.47 634.55,484.00 C659.64,483.53 683.27,509.92 708.36,519.24 C733.46,528.55 757.08,533.82 782.18,538.81 C807.28,543.80 843.45,546.94 856.00,548.60 L856,552 L44,552 Z" fill="url(#areag)"/>
+<path d="M44.00,548.60 C56.55,548.60 92.72,548.60 117.82,548.60 C142.92,548.60 166.54,548.67 191.64,548.60 C216.73,548.53 240.36,548.21 265.45,548.21 C290.55,548.21 314.17,549.80 339.27,548.60 C364.37,547.40 387.99,546.49 413.09,541.16 C438.19,535.84 461.81,520.54 486.91,517.28 C512.01,514.02 535.63,527.63 560.73,521.98 C585.83,516.32 609.45,484.47 634.55,484.00 C659.64,483.53 683.27,509.92 708.36,519.24 C733.46,528.55 757.08,533.82 782.18,538.81 C807.28,543.80 843.45,546.94 856.00,548.60" fill="none" stroke="#0A8E9E" stroke-width="2" stroke-linecap="round" pathLength="1" class="trace"/>
 <line x1="44" y1="552" x2="856" y2="552" stroke="#C3DBE0" stroke-width="1"/>
-<text x="44.0" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">S</text>
-<text x="117.8" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">O</text>
-<text x="191.6" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">N</text>
-<text x="265.5" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">D</text>
-<text x="339.3" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">J</text>
-<text x="413.1" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">F</text>
-<text x="486.9" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">M</text>
-<text x="560.7" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">A</text>
-<text x="634.5" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">M</text>
+<text x="44.0" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">O</text>
+<text x="117.8" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">N</text>
+<text x="191.6" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">D</text>
+<text x="265.5" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">J</text>
+<text x="339.3" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">F</text>
+<text x="413.1" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">M</text>
+<text x="486.9" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">A</text>
+<text x="560.7" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">M</text>
+<text x="634.5" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">J</text>
 <text x="708.4" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">J</text>
-<text x="782.2" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">J</text>
-<text x="856.0" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">A</text>
+<text x="782.2" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">A</text>
+<text x="856.0" y="571.0" font-size="10" fill="#6E8E96" text-anchor="middle" opacity="0.750">S</text>
 </g>
 </g>
 <g class="tab tab2">
@@ -906,7 +906,7 @@
 <line x1="44" y1="596" x2="856" y2="596" stroke="url(#fade)" stroke-width="1"/>
 <circle cx="48" cy="617" r="3.4" fill="#0A8E9E" class="dot"/>
 <text x="61.0" y="621.0" font-size="11" fill="#37545C" letter-spacing="2.2">OPEN TO INTERNSHIP</text>
-<text x="856.0" y="621.0" font-size="11" fill="#6E8E96" letter-spacing="2.2" text-anchor="end">UPDATED 31 AUG 2026</text>
+<text x="856.0" y="621.0" font-size="11" fill="#6E8E96" letter-spacing="2.2" text-anchor="end">UPDATED 01 SEP 2026</text>
 <rect width="900" height="640" fill="url(#vig)"/>
 <rect width="900" height="640" filter="url(#grain)" opacity="0.026"/>
 <rect width="900" height="640" fill="url(#scan2)"/>
